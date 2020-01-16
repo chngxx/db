@@ -6,3 +6,6 @@ https://docs.microsoft.com/zh-cn/dotnet/framework/data/adonet/sql/linq/downloadi
 
 instnwnd.sql
 https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs
+
+这里是对northwind的改造
+https://cloud.tencent.com/developer/article/1065886
